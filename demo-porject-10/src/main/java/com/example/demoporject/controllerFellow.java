@@ -36,11 +36,13 @@ public class controllerFellow {
 		Student a3 = new Student(); a3.setName("hey3");
 		Student a4 = new Student(); a4.setName("fukbalut");
 		Student a5 = new Student(); a5.setName("fukbalut-nishbnish");
+		Student a6 = new Student(); a6.setName("bordolio");
 		a.add(a1);
 		a.add(a2);
 		a.add(a3);
 		a.add(a4);
 		a.add(a5);
+		a.add(a6);
 		return a;
 	}
 }
